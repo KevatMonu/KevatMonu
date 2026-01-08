@@ -1,11 +1,57 @@
-- 👋 Hi, I’m @KevatMonu
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning  MERN STACK 
-- 💞️ I’m looking to collaborate on Company 
-- 📫 How to reach me linked = https://www.linkedin.com/in/monu-kevat-760b09255/
-- ⚡ Fun fact: Loves to Code
+# 👋 Hi, I'm Monu  
 
-<!---
-KevatMonu/KevatMonu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Web Developer** | ⚛️ Frontend Focused | 🚀 Continuous Learner  
+
+I build **clean, responsive, and interactive web applications** with a strong focus on **UI, UX, and performance**.
+
+---
+
+## 🧠 About Me  
+- ⚛️ Working with **React & Modern JavaScript**  
+- 🎨 Love creating smooth **UI animations & interactions**  
+- 🛠️ Building real-world projects  
+- 🌱 Learning **MERN Stack (Frontend-first approach)**  
+- 🔥 Believe in **Consistency > Motivation**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🌐 Frontend  
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Tailwind CSS  
+
+### 🗄️ Backend & Database (Basics)  
+- Node.js  
+- Express.js  
+- MySQL  
+- SQL Server  
+
+### ⚙️ Tools  
+- Git & GitHub  
+- VS Code  
+- Postman  
+
+---
+
+## 📌 Projects  
+🚧 Actively building projects using **React & modern UI patterns**.  
+Explore my repositories to see **components, animations, and full applications**.
+
+---
+
+## 📈 Goals  
+- ✅ Master React & frontend architecture  
+- ✅ Build production-ready apps  
+- ✅ Improve backend fundamentals  
+- ✅ Contribute to open-source  
+
+---
+
+## 🤝 Let’s Connect  
+💼 GitHub: *You’re already here 😄*  
+
+⭐ **Star a repo if you find something useful!**
